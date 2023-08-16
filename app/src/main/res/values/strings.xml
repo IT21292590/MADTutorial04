@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab02</string>
+    <string name="nameHint">Enter Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="reEnterPasswordHint">ReEnter Email</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnCancel">CANCEL</string>
 </resources>
